@@ -15,3 +15,8 @@ cl_crosshairalpha 255; cl_crosshaircolor 4; cl_crosshaircolor_r 0; cl_crosshairc
 ```sh
 viewmodel_fov 68; viewmodel_offset_x 2.5; viewmodel_offset_y 0; viewmodel_offset_z -1.5; viewmodel_presetpos 3; cl_viewmodel_shift_left_amt 1.5; cl_viewmodel_shift_right_amt 0.75; viewmodel_recoil 0; cl_righthand 1;
 ```
+## 基础CFG下载
+[common cfg](https://cscfg.now.sh/auto.cfg)
+
+## 高级CFG下载
+[cfg plus](https://cscfg.now.sh/csgo%2B)
